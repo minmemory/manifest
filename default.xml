@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <remote name="origin"
-          fetch=".." />
+          fetch="git://github.com" />
 
   <default revision="refs/heads/lollipop-5.0"
            remote="origin"
